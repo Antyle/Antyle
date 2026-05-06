@@ -3,7 +3,7 @@
 
 # My Projects:
 * Owner @ LossMedia
-* Owner @ [Frame Studios](https://mcubemc.fr)
+* Owner @ [Frame Studios](https://framemc.fr)
 * Admin @ [McubeMC](https://mcubemc.fr)
 * Admin @ [Sonaria](https://sonaria.fr)
 
