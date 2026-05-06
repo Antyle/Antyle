@@ -3,9 +3,8 @@
 
 # My Projects:
 * Owner @ LossMedia
-* Owner @ Frame Studios (2027)
-*   ➥ Owner @ CrypticMC
-* Admin @ McubeMC
+* Owner @ [Frame Studios](https://mcubemc.fr)
+* Admin @ [McubeMC](https://mcubemc.fr)
 * Admin @ [Sonaria](https://sonaria.fr)
 
 
