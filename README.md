@@ -9,7 +9,7 @@
 
 
 
-<h2>My goals :</h2>
+<h2>Learning :</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
