@@ -23,8 +23,8 @@
 
 ## My Stats, i think?
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Antyle&show_icons=true&theme=tokyonight&hide_border=true" width="30%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antyle&theme=tokyonight&hide_border=true" width="32.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Antyle&show_icons=true&theme=tokyonight&hide_border=true" width="35%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antyle&theme=tokyonight&hide_border=true" width="37.5%"/>
 </p>
 
 *Former Admin at [Frostia](https://frostia.fr)*
