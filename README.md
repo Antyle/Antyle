@@ -27,5 +27,7 @@
 
 *Former Owner at HAISDIP/Satais, AlexSMP, AlertScam, KilleadSMP and Frostia*
 ## Notes
-<h3 align="center">I try to use the less AI possible for my projects, when i use AI, i'll mark it.</h2>
+<h3 align="center">I try to use the less AI possible for my projects, when i use AI, i'll mark it.</h3>
+<h4 align="center">I only use AI for debugging a thing that i really don't know why/how to fix it.</h4>
 
+YEAH I KNOW MY GITHUB PAGE IS UGLY 
