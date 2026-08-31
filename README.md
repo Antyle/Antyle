@@ -7,11 +7,11 @@
 * Admin @ [McubeMC](https://mcubemc.fr)
 * Admin @ [Sonaria](https://sonaria.fr)
 
-<h2>My Skills :</h2>
+<h2>Stack :</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
-<h2>Learning skills :</h2>
+<h2>Learning Stacks :</h2>
 <div align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -20,6 +20,26 @@
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/FullStack-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
+
+|      Stack     |                   Type                   |         Why i want to learn that         | My level      |
+|:--------------:|:----------------------------------------:|:----------------------------------------:|---------------|
+|   **PYTHON**   |                  Backend                 | Allows me to write script fast and learn | Junior        |
+| FastAPI        | Framework Py Backend                     |                                          |               |
+| Django         | Framework PY Fullstack                   |                                          |               | 
+|    **JAVA**    |                  Backend                 | Create plugins bro like dude | Absolute noob |
+| **JAVASCRIPT** | fullstack                                | run scripts ? and i guess like yk        | Absolute noob |
+| React          | Framework JS Frontend                    |                                          | Absolute noob |
+| Angular        | Framework JS Frontend                    |                                          | Absolute noob |
+| Vue.js         | framework js frontend                    |                                          | Absolute noob |
+| Nuxt           | Framework JS fullstack                   |                                          | Absolute noob |
+| Svelte         | framework js frontend                    |                                          | Absolute noob |
+| Next.js        | Framework JS fullstack                   |                                          | Absolute noob |
+| Typescript     |                                          |                                          | Absolute noob |
+| Express.js     | framework Js backend                     |                                          | Absolute noob  |
+| Tailwind        | Framework JS frontend                     |                                          | Absolute noob |
+| **NODE.JS**        | environnement d'exécution cmt ça mn reuf |                                          | Absolute noob|
+| **GIT** | git| bro do i need to explain |OK level|
+|**PHP**|                                          |                                          | Absolute noob |
 
 ## My Github Stats
 <p align="center">
