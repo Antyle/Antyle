@@ -24,8 +24,8 @@
 |      Stack     |                   Type                   |         Why i want to learn that         | My level      |
 |:--------------:|:----------------------------------------:|:----------------------------------------:|---------------|
 |   **PYTHON**   |                  Backend                 | Allows me to write script fast and learn | Junior        |
-| FastAPI        | Framework Py Backend                     |                                          |               |
-| Django         | Framework PY Fullstack                   |                                          |               | 
+| FastAPI        | Framework Py Backend                     |                                          | Absolute noob |
+| Django         | Framework PY Fullstack                   |                                          |Absolute noob | 
 |    **JAVA**    |                  Backend                 | Create plugins bro like dude | Absolute noob |
 | **JAVASCRIPT** | fullstack                                | run scripts ? and i guess like yk        | Absolute noob |
 | React          | Framework JS Frontend                    |                                          | Absolute noob |
