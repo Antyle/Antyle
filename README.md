@@ -39,7 +39,6 @@
 |  Express.js      	|  framework Js backend                      	|                                            	|  Absolute noob   	|
 |  Tailwind         	|  Framework JS frontend                      	|                                            	|  Absolute noob  	|
 |  **NODE.JS**         	|  environnement d'exécution cmt ça mn reuf  	|                                            	|  Absolute noob 	|
-|  **GIT**  	|  git 	|  bro do i need to explain  	| OK level 	|
 | **PHP** 	| Backend language  	| PHP is guess 	|  Absolute noob  	|
 | **C** 	| Backend language  	| No no this is Death 	|  Absolute noob  	|
 | **C#** 	| Backend language  	| No no this is Death 	|  Absolute noob  	|
@@ -48,7 +47,7 @@
 | **Ruby** 	| Backend language  	| No no this is Death 	|  Absolute noob  	|
 | **Go** 	| Backend language  	| No no this is Death 	|  Absolute noob  	|
 | **Kotlin** 	| Backend language  	| euh  	|  Absolute noob  	|
-| MySQL and the whole familly 	| Databases 	|  	|  	|
+| MySQL and the whole familly 	| Databases 	|  	|Absolute noob|
 ## My Github Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Antyle&show_icons=true&theme=tokyonight&hide_border=true" width="39%"/>
