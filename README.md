@@ -1,11 +1,7 @@
 <h1 align="center">👋 Hello World! </h1>
 <h3 align="center"> I'm Antyle, a junior developer and content creator.</h2>
 
-# My Projects:
-* Owner @ LossMedia
-* Owner @ [Frame Studios](https://framemc.fr)
-* Admin @ [McubeMC](https://mcubemc.fr)
-* Admin @ [Sonaria](https://sonaria.fr)
+* Co-Founder @ [McubeMC](https://mcubemc.fr) *([Mcube Events](https://mcubemc.fr) & [FrameMC](https://framemc.fr))*
 
 <h2>Stack :</h2>
 <p align="center">
