@@ -24,6 +24,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Antyle&theme=tokyonight&hide_border=true" width="41.5%"/>
 </p>
 
-<h3 align="center">I try to use the less AI possible for my projects, when i use AI, i'll mark it.</h3>
+<h3 align="center">I try to use the less AI possible in my projects, when i use AI, i'll mark it.</h3>
 <h4 align="center">I only use AI for debugging a thing that i really don't know why/how to fix it.</h4>
 
