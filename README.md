@@ -4,6 +4,7 @@
 * Co-Founder @ [McubeMC](https://mcubemc.fr) *([Mcube Events](https://mcubemc.fr) & [FrameMC](https://framemc.fr))*
 * *Former Owner at **Frostia***, **AlexSMP**, **HAISDIP/Satais** (now Frame AI),  **AlertScam** (now Frame Guard),
 <h2>Stack :</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
 </p>
